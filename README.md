@@ -8,3 +8,6 @@ List Of Useful APIs (For Developers)
  - [Youtube Infos (Thumbnail , Views , Likes ...)](https://api.w3hills.com/youtube)
  - [Countries Infos](https://restcountries.eu)
  - [TND -> USD , TND -> EUR ](http://free.currencyconverterapi.com/api/v3/convert?q=USD_TND,EUR_TND)
+ - [Giphy API (GIFs)](http://api.giphy.com/v1/gifs/search?q=cat&api_key=dc6zaTOxFJmzC)
+ 
+ 
